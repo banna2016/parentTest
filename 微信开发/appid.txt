@@ -1,0 +1,16 @@
+AppID(应用ID)wx7082caf1c5fc95fc
+AppSecret(应用密钥)cba62acdb6181059f21cbaf91d944e44 
+请求地址：
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7082caf1c5fc95fc&secret=cba62acdb6181059f21cbaf91d944e44
+返回结果:
+200	OK
+Connection: close
+Date: Fri, 17 Jun 2016 05:35:21 GMT
+Content-Type: application/json; encoding=utf-8
+Content-Length: 175
+{
+    "access_token": "T5M-H275JAvtiSpvgiS2pl4C2c2Q_fl0T0f4RSIk5mwasMOEzuymyuiS40ycgyXxNhug40YqqtuNSXu8qm9KEgNCHZhPUSTtHRu6fYzCvr2txzFH695te90qqE2-NlU4IOCgAFAZFT", 
+    "expires_in": 7200
+}
+提示:
+Request successful
